@@ -48,9 +48,6 @@ m
 folium.Marker(location=[33.800763,132.7846606],popup='ヤマダデンキ テックランド松山本店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[33.9179171,133.0756458],popup='ヤマダデンキ ヤマダアウトレット西条店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[33.8644995,132.7498713],popup='ヤマダデンキ YAMADA web.com松山問屋町店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
